@@ -18,6 +18,24 @@ namespace Fleck
         {    
             if (level >= Level)    
                 Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);    
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
+             Console.WriteLine("{0} [{1}] {2} {3}", DateTime.Now, level, message, ex);   
         };    
     
         public static void Warn(string message, Exception ex = null)    
